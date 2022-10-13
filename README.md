@@ -1,7 +1,7 @@
 # Spotify-Playlist-Creator
 Create a private Spotify playlist from a text file
 
-This script is intended to convert Apple Music playlists into Spotify.
+This script was created to convert Apple Music playlists into Spotify playlists.
 
 1. Export your Apple Music playlist as a text file
 2. Place text file into the same directory as this converter code
